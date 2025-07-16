@@ -11,3 +11,7 @@ https://brlcsistemas.com.br/
 
 ![Demonstração](https://github.com/user-attachments/assets/8b07e27b-0cc5-4c01-8c08-57c66484b9b2)
 
+
+Colocar isso no arduino > preferencias:
+https://dl.espressif.com/dl/package_esp32_index.json,https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
